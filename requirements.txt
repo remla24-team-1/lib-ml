@@ -8,6 +8,5 @@ pylint==2.13.0
 seaborn
 Flask==3.0.3
 flasgger==0.9.7.1
-tensorflow==2.16.1
 scikit-learn==1.4.2
 Flask-Cors==4.0.1

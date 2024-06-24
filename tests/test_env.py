@@ -1,3 +1,3 @@
 from remlapreprocesspy import preprocess
 
-preprocess([0,0,0,0,0])
+preprocess(["www.test","test2.com"])
